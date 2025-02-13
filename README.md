@@ -21,8 +21,7 @@
 - Exploring web development & backend services  
 - Enhancing skills in cloud-based deployment  
 
-## 📫 Connect with Me  
-- GitHub: [Your GitHub Profile](https://github.com/muhannad-iz-a-tech-nerd)  
+
 
 🚀 Let's build something amazing together!
 ```
