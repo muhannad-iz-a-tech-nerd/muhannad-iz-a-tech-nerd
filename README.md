@@ -1,27 +1,46 @@
 
+# 👋 Welcome! I am Muhannad from Abu Bakr School
 
+### 💡 AI Developer | Data Science Enthusiast | Technology Explorer
 
-# 👋 Hello, I'm Muhannad from Abu Bakr school!
+🚀 I am deeply passionate about Artificial Intelligence, Machine Learning, and Web Development.  
+🔍 I constantly explore emerging technologies and focus on optimizing AI-driven solutions to create impactful applications.
 
-### 💡 AI Developer | Data Enthusiast | Tech Explorer  
-
-🚀 Passionate about AI, Machine Learning, and Web Development.  
-🔍 Always exploring new technologies and optimizing AI-driven solutions.
+---
 
 ## 🛠️ Technologies & Tools  
-- **Programming:** Python, R, Mojo, Bash  
-- **AI & Data Science:** Machine Learning, Deep Learning, Data Analysis  
-- **Databases:** SQL, SQLite, Firebase  
-- **Web Development:** HTML5, Vercel, JSON  
-- **Version Control:** Git, GitHub  
-- **Design & Prototyping:** Figma  
+
+- **Programming Languages:**  
+  Python, R, Mojo, Rust, C++, JavaScript, TypeScript, C#, Java  
+
+- **AI & Data Science:**  
+  Machine Learning, Deep Learning, Data Analysis, LLM Development, Natural Language Processing (NLP), Computer Vision  
+
+- **Databases:**  
+  SQL, SQLite, Firebase, PostgreSQL, MongoDB  
+
+- **Web Development:**  
+  HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Vercel, JSON, Tailwind CSS  
+
+- **Version Control & Collaboration:**  
+  Git, GitHub, GitLab  
+
+- **Design & Prototyping:**  
+  Figma, Adobe XD  
+
+- **Cloud & DevOps:**  
+  Vercel, Firebase Hosting, AWS (Basic), Docker (Fundamentals)
+
+---
 
 ## 📌 Current Focus  
-- Developing AI-powered applications  
-- Exploring web development & backend services  
-- Enhancing skills in cloud-based deployment  
 
+- Designing and developing AI-powered applications  
+- Advancing web development and backend engineering skills  
+- Deepening expertise in cloud-based deployment and infrastructure  
+- Building scalable Large Language Models (LLMs) and AI pipelines
 
+---
 
-🚀 Let's build something amazing together!
-```
+🚀 **Let's collaborate and create outstanding innovations together!**
+
