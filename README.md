@@ -1,5 +1,5 @@
 
-# 👋 Welcome! I am Muhannad from Abu Bakr School
+# 👋 Welcome! I am Muhannad from STEM School
 
 ### 💡 AI Developer | Data Science Enthusiast | Technology Explorer
 
